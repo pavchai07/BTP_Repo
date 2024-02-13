@@ -28,8 +28,6 @@ Content-Type: application/json
   "customerNo": "C1"
 }
 
-
-
 ###
 POST http://localhost:4004/catalog/SalesOrderItems HTTP/1.1
 Content-Type: application/json
